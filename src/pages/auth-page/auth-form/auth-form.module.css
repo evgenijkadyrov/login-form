@@ -1,0 +1,16 @@
+.authForm{
+width: 50vw;
+    height: 100vh;
+    background-color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.authForm_item{
+
+}
